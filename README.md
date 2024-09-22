@@ -27,7 +27,4 @@ As there was no direct dataset available for the T20I World Cup 2024, the data w
 ## Project Link
 - [View the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/ff0b50d9-59e8-40c7-95af-2ed7aca64680/36a4266c9d692959e735?ctid=0a0aa63d-82d0-4ba1-b909-d7986ece4c4c&experience=power-bi&bookmarkGuid=9ded4998-695d-4979-8fef-0080391a9eb6)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+
